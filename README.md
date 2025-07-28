@@ -1,83 +1,24 @@
-<h1 align="center">👋 Hey there! I'm Karan Nakum</h1>
-<h3 align="center">🤖 Machine Learning Engineer | 📊 Data Science Enthusiast | 🧠 AI Explorer</h3>
+<h1 align="center">Hi 👋, I'm Karan Nakum</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karannakum197&label=Profile%20views&color=0e75b6&style=flat" alt="karannakum197" /> </p>
 
-## 🧭 About Me
-- 🎓 **Currently pursuing MCA** & passionate about ML and AI
-- 🌱 Currently learning **Advanced Deep Learning, LLMs & Deployment**
-- 💡 Love exploring **NLP, Computer Vision & Time-Series Forecasting**
-- ✍️ Write articles on [Medium](https://medium.com/@yourprofile) and [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ Fun fact: I like automating boring stuff with Python!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karannakum197" alt="karannakum197" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🛠️ My Tech Stack
-<div align="center">
-  
-🐍 **Languages:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+- 👯 I’m looking to collaborate on **any exciting projects involving computer vision or NLP**
 
-🔬 **ML/DL:**  
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-
-📊 **Data & Visualization:**  
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" />
-
-🚀 **Deployment & Tools:**  
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-
-🧰 **Other:**  
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-| ⭐ Project | 📜 Description | ⚙ Tech |
-|--|--|--|
-| [🧠 MNIST Digit Classifier](https://github.com/your-github-username/mnist-digit-classifier) | CNN model for handwritten digit recognition. | Python, TensorFlow |
-| [📈 Stock Price Predictor](https://github.com/your-github-username/stock-price-predictor) | Predict stock prices using LSTM & technical indicators. | Python, Keras, Pandas |
-| [🖼️ Image Caption Generator](https://github.com/your-github-username/image-caption-generator) | Generates captions for images using deep learning. | Python, Keras, NLP |
-| [💬 Chatbot](https://github.com/your-github-username/chatbot) | A basic chatbot built using Rasa / transformers. | Python, NLP |
-
-> ✨ *More projects in progress... Stay tuned!*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="top langs"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🤝 Let’s Connect!
-<div align="center">
-  
-🌐 [Portfolio Website](https://your-portfolio-link) &nbsp;&nbsp; 
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) &nbsp;&nbsp;
-📝 [Medium](https://medium.com/@yourprofile) &nbsp;&nbsp;
-📧 [Email](mailto:youremail@example.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karannakum197&show_icons=true&locale=en&layout=compact" alt="karannakum197" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karannakum197&show_icons=true&locale=en" alt="karannakum197" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karannakum197&" alt="karannakum197" /></p>
 
-⭐ *If you like my work, consider starring my repos and following me!*
