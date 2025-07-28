@@ -1,83 +1,71 @@
-<h1 align="center">👋 Hey there! I'm Karan Nakum</h1>
-<h3 align="center">🤖 Machine Learning Engineer | 📊 Data Science Enthusiast | 🧠 AI Explorer</h3>
+<!--
+Hey! Thanks for using this template.
+To use this, you'll need to replace the placeholders like your-github-username, your-twitter, etc. with your actual details.
+You can find more icons for the tech stack section at https://devicon.dev/
+-->
 
----
-
-## 🧭 About Me
-- 🎓 **Currently pursuing MCA** & passionate about ML and AI
-- 🌱 Currently learning **Advanced Deep Learning, LLMs & Deployment**
-- 💡 Love exploring **NLP, Computer Vision & Time-Series Forecasting**
-- ✍️ Write articles on [Medium](https://medium.com/@yourprofile) and [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ Fun fact: I like automating boring stuff with Python!
-
----
-
-## 🛠️ My Tech Stack
-<div align="center">
-  
-🐍 **Languages:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-
-🔬 **ML/DL:**  
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-
-📊 **Data & Visualization:**  
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" />
-
-🚀 **Deployment & Tools:**  
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-
-🧰 **Other:**  
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-| ⭐ Project | 📜 Description | ⚙ Tech |
-|--|--|--|
-| [🧠 MNIST Digit Classifier](https://github.com/your-github-username/mnist-digit-classifier) | CNN model for handwritten digit recognition. | Python, TensorFlow |
-| [📈 Stock Price Predictor](https://github.com/your-github-username/stock-price-predictor) | Predict stock prices using LSTM & technical indicators. | Python, Keras, Pandas |
-| [🖼️ Image Caption Generator](https://github.com/your-github-username/image-caption-generator) | Generates captions for images using deep learning. | Python, Keras, NLP |
-| [💬 Chatbot](https://github.com/your-github-username/chatbot) | A basic chatbot built using Rasa / transformers. | Python, NLP |
-
-> ✨ *More projects in progress... Stay tuned!*
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">A passionate [Your Title/Role] from [Your Location]</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="top langs"/>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="profile-views" />
 </p>
 
----
+👨‍💻 About Me:
+🔭 I’m currently working on [Your Project Name]
 
-## 🤝 Let’s Connect!
-<div align="center">
-  
-🌐 [Portfolio Website](https://your-portfolio-link) &nbsp;&nbsp; 
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) &nbsp;&nbsp;
-📝 [Medium](https://medium.com/@yourprofile) &nbsp;&nbsp;
-📧 [Email](mailto:youremail@example.com)
+🌱 I’m currently learning [What you're learning]
 
-</div>
+👯 I’m looking to collaborate on [Project ideas or type of projects]
 
----
+🤔 I’m looking for help with [A topic you need help with]
 
-⭐ *If you like my work, consider starring my repos and following me!*
+💬 Ask me about [Topics you are knowledgeable in]
+
+📫 How to reach me: [Your Email Address]
+
+😄 Pronouns: [Your Pronouns]
+
+⚡ Fun fact: [A fun fact about you]
+
+🛠️ Languages and Tools:
+<p align="left">
+<!-- Add your tech stack icons here. You can find more at https://devicon.dev/ -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+📊 My GitHub Stats:
+<!--
+Replace your-github-username with your GitHub username.
+You can customize the look of these cards. See https://github.com/anuraghazra/github-readme-stats for more options.
+-->
+
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight" alt="github-stats" />
+</p>
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26layout%3Dcompact%26locale%3Den%26theme%3Dtokyonight" alt="top-languages" />
+</p>
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-github-username%26theme%3Dtokyonight" alt="github-streak" />
+</p>
+
+🤝 Connect with Me:
+<p align="center">
+<a href="https://www.google.com/search?q=https://twitter.com/your-twitter">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://www.google.com/search?q=https://www.instagram.com/your-instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
