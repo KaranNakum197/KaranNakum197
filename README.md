@@ -8,7 +8,7 @@ Devicon: https://devicon.dev/
 Simple Icons: https://simpleicons.org/
 -->
 
-<h1 align="center">👋 Hi, I'm Karan NAkum</h1>
+<h1 align="center">👋 Hi, I'm Karan Nakum</h1>
 <h3 align="center">🤖 Machine Learning Engineer | 📊 Data Science Enthusiast | 🧠 AI Explorer</h3>
 
 <!-- Social Badges Section -->
@@ -16,12 +16,12 @@ Simple Icons: https://simpleicons.org/
 <p align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-url" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.google.com/search?q=https://medium.com/%40your-medium-username"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.google.com/search?q=https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=https://medium.com/%40your-medium-username" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 🧭 About Me
-🎓 I'm currently pursuing MCA at The Maharaja Sayajirao University.
+🎓 I'm currently pursuing MCA at MSU.
 
 🌱 I’m currently exploring Advanced Deep Learning, LLMs, and MLOps.
 
@@ -29,7 +29,7 @@ Simple Icons: https://simpleicons.org/
 
 💼 I'm open to [Internship/Full-time] opportunities in Machine Learning and Data Science.
 
-✍️ I enjoy sharing my knowledge by writing articles on Medium.
+✍️ I enjoy sharing my knowledge by writing articles on LinkedIn.
 
 ⚡ Fun fact: I love automating my daily tasks with Python scripts!
 
@@ -88,7 +88,7 @@ Project Name 3
 
 A short, compelling description of your project. What problem does it solve? What are its features?
 
-R, Docker, NLP
+Python, NLP, Docker
 
 ✨ You can find more of my work on my GitHub profile!
 
