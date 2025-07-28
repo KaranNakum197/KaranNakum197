@@ -1,30 +1,48 @@
-<h1 align="center">👋 Hi there! I'm <span style="color:#f9a826;">Karan Nakum</span></h1>
+<h1 align="center">👋 Hi, I'm Karan Nakum</h1>
 <h3 align="center">🤖 Machine Learning Engineer | 📊 Data Science Enthusiast | 🧠 AI Explorer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧭 About Me
-- 🎓 MCA Student & AI Enthusiast
-- 🌱 Learning **Advanced Deep Learning**, **LLMs**, and **MLOps**
-- 💡 Interested in NLP, Computer Vision & Time Series
-- ✍️ Sharing insights on [Medium](https://medium.com/@yourprofile) and [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ Fun fact: Automating daily tasks with Python makes me happy!
+- 🎓 Currently pursuing MCA & deeply passionate about AI
+- 🌱 Exploring **Advanced Deep Learning, LLMs, and MLOps**
+- 💡 Love building NLP, Computer Vision & Time Series projects
+- ✍️ Sharing knowledge on [Medium](https://medium.com/@yourprofile) and [LinkedIn](https://linkedin.com/in/yourprofile)
+- ⚡ Fun fact: I love automating daily tasks with Python!
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,scikit-learn,keras,fastapi,flask,streamlit,docker,mysql,postgres,git,github,vscode,linux,ubuntu,heroku" alt="Skills">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
 </p>
 
 ---
@@ -33,12 +51,12 @@
 
 | ⭐ Project | 📜 Description | ⚙ Tech |
 |--|--|--|
-| [🧠 MNIST Digit Classifier](https://github.com/your-github-username/mnist-digit-classifier) | CNN model recognizing handwritten digits. | Python, TensorFlow |
-| [📈 Stock Price Predictor](https://github.com/your-github-username/stock-price-predictor) | Forecasts stock prices using LSTM & technical indicators. | Python, Keras |
-| [🖼️ Image Caption Generator](https://github.com/your-github-username/image-caption-generator) | Generates captions for images using CNN + LSTM. | Python, NLP |
-| [💬 Chatbot](https://github.com/your-github-username/chatbot) | Conversational bot using transformers / Rasa. | Python, NLP |
+| [🧠 MNIST Digit Classifier](https://github.com/your-github-username/mnist-digit-classifier) | CNN recognizing handwritten digits. | Python, TensorFlow |
+| [📈 Stock Price Predictor](https://github.com/your-github-username/stock-price-predictor) | Forecasts prices using LSTM & indicators. | Python, Keras, Pandas |
+| [🖼️ Image Caption Generator](https://github.com/your-github-username/image-caption-generator) | Generates captions with CNN + LSTM. | Python, NLP |
+| [💬 Chatbot](https://github.com/your-github-username/chatbot) | Conversational bot using transformers. | Python, NLP |
 
-> ✨ *More coming soon…*
+> ✨ *More projects coming soon…*
 
 ---
 
@@ -54,28 +72,31 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&row=1&no-frame=true&margin-w=10" height="110" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&row=1&margin-w=10" height="110" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect with me
+
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://medium.com/@yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="30" alt="Medium"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://your-portfolio-link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-⭐ *If you like what I do, consider following me and starring my repositories!*
-
+⭐ *If you like my work, follow me and ⭐ my repos!*
