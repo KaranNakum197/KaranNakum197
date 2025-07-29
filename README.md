@@ -31,6 +31,8 @@
 
 ---
 
+
+
 ## 💻 Languages
 <p align="center">
   <a href="https://skillicons.dev">
@@ -96,9 +98,36 @@
 ---
 
 ## 📊 Technical Skills
-![Data Structures](https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-yellow?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
+<p align="center"> <img src="https://img.shields.io/badge/Data%20Structures-%23FFA500?style=for-the-badge&logo=code&logoColor=white" alt="Data Structures" /> <img src="https://img.shields.io/badge/Algorithms-%23FFD700?style=for-the-badge&logo=code&logoColor=white" alt="Algorithms" /> <img src="https://img.shields.io/badge/Machine%20Learning-%23FF0000?style=for-the-badge&logo=ai&logoColor=white" alt="Machine Learning" /> </p>
+
+---
+
+## 🌐 Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/karannakum" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://twitter.com/karannakum197" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/karan_nakum_19" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
+  </a>
+
+</p>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karannakum197/karannakum197/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karannakum197/karannakum197/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
@@ -118,13 +147,6 @@
 </p>
 
 ---
-## 🌐 Socials
-
-
----
-
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karannakum197&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
