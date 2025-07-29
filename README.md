@@ -1,4 +1,10 @@
-<h1 align="center">👋Hi there, I'm Karan Nakum!</h1>
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=karannakum197" alt="Visitor's Count" />
+</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karan+Nakum!;" />
+</h1>
 <p align="center">🤖 Aspiring Machine Learning Engineer | 🧠 AI Enthusiast | 📊 Data Explorer</p>
 
 ---
@@ -8,7 +14,7 @@
 - 👯 I’m looking to collaborate on **open-source AI projects, especially in NLP or computer vision**.
 - 🤔 I’m looking for help with **advanced model optimization techniques**.
 - 💬 Ask me about **Python, TensorFlow, PyTorch, Scikit-learn, and cloud platforms**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/karannakum) & [Gmail](karannakum456@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/karannakum) & [Email](karannakum456@gmail.com)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I once trained a neural network to classify different types of Indian bread!
 
@@ -116,6 +122,8 @@
 
 
 ---
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karannakum197&theme=radical&no-frame=false&no-bg=true&margin-w=4)
