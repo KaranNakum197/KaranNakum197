@@ -1,29 +1,27 @@
-<h1 align="center">👋 Hey, I'm Karan Nakum</h1>
+<h1 align="center">👋Hi there, I'm Karan Nakum!</h1>
 <p align="center">🤖 Aspiring Machine Learning Engineer | 🧠 AI Enthusiast | 📊 Data Explorer</p>
 
 ---
+## 🚀 About Me
+- 🔭 I’m currently working on a project involving **Large Language Models (LLMs)**.
+- 🌱 I’m currently learning **MLOps best practices and reinforcement learning**.
+- 👯 I’m looking to collaborate on **open-source AI projects, especially in NLP or computer vision**.
+- 🤔 I’m looking for help with **advanced model optimization techniques**.
+- 💬 Ask me about **Python, TensorFlow, PyTorch, Scikit-learn, and cloud platforms**.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/karannakum) & [Gmail](karannakum456@gmail.com)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I once trained a neural network to classify different types of Indian bread!
 
+---
 ## 📚 Currently
-- 🌱 Learning: **Deep Learning, LLMs, and Model Deployment**
-- 🛠️ Working on projects with **TensorFlow, PyTorch, and scikit-learn**
-- 📝 Writing about ML on [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🎓 Pursuing MCA in Computer Science
+- 🎓 Pursuing **MCA** in **The Maharaja Sayajirao University of Baroda**
 
 ---
 
 ## 💼 Work & Internship
-- Interned at **AI/ML Research Lab**
+- AI/ML Interned at **Sparks to Ideas**
 - Built **ML pipelines & dashboards**
 - Worked on **Data preprocessing, training models, deployment**
-
----
-
-## 📬 Connect with Me
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
-  </a>
-</p>
 
 ---
 
@@ -103,9 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranNakum197&theme=radical" alt="GitHub Streak"/>
 </p>
 
-
 ---
-
 
 ## 🚀 GitHub Stats
 <p align="center">
@@ -116,6 +112,11 @@
 </p>
 
 ---
+## 🌐 Socials
+
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karannakum197&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
