@@ -61,6 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranNakum197&theme=radical" alt="GitHub Streak"/>
 </p>
 
+
 ---
 
 
@@ -73,7 +74,7 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=karannakum197&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ⭐ *If you like my work, feel free to star my repos and connect!*
-
-
