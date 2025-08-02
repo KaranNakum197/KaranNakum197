@@ -9,7 +9,6 @@
 
 ---
 ## 🚀 About Me
-<img align="right" alt="coding" width=200 src="git.gif">
 - 🔭 I’m currently working on a project involving **Large Language Models (LLMs)**.
 - 🌱 I’m currently learning **MLOps best practices and reinforcement learning**.
 - 👯 I’m looking to collaborate on **open-source AI projects, especially in NLP or computer vision**.
