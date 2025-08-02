@@ -9,6 +9,7 @@
 
 ---
 ## 🚀 About Me
+<img align="right" alt="coding" width=200 src="git.gif">
 - 🔭 I’m currently working on a project involving **Large Language Models (LLMs)**.
 - 🌱 I’m currently learning **MLOps best practices and reinforcement learning**.
 - 👯 I’m looking to collaborate on **open-source AI projects, especially in NLP or computer vision**.
@@ -17,7 +18,7 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/karannakum) & [Email](karannakum456@gmail.com)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I once trained a neural network to classify different types of Indian bread!
-<img align="right" alt="coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-animation%2F916702624332%2F&psig=AOvVaw0wxNCXzXc_87hF7I2WQPOK&ust=1754244558812000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD8lLDc7I4DFQAAAAAdAAAAABAE">
+
 ---
 ## 📚 Currently
 - 🎓 Pursuing **MCA** in **The Maharaja Sayajirao University of Baroda**
