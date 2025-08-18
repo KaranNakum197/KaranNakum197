@@ -135,6 +135,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranNakum197&theme=radical" alt="GitHub Streak"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranNakum197&theme=react-dark"/>
+</p>
 
 ---
 
